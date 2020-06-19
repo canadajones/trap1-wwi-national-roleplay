@@ -2,27 +2,27 @@
 
 ## Concepts
 
-# Technology
+### Technology
 
 - 5 or so tiers
 - 3/4 paths
 - Differing requirements
 
-# Ordinances
+### Ordinances
 - Spending directions
 - Saving directions
 - Simple decrees
 - Mainly balancing
 
 
-# Policies
+### Policies
 - Cost social change (possible resource?)
 _ Different "ideals"
 - Narrow trees
 - Static bonuses to different resources
 
 
-# Military
+### Military
 - 5 (6) different types
   - Artillery
   - Snipers
@@ -37,13 +37,13 @@ _ Different "ideals"
   - Bombing vessels (later: Submarines)
 - Have commanders
 
-# Improvements
+### Improvements
 - Can be built in tiles
 - Gives a dynamic boost to one or more resources
 - Some may coexist, but most are mutually exclusive
 
 
-# Victory
+### Victory
 - Cooperative and competitive
 - Multiple conditions
   - Military
