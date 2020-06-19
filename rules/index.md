@@ -2,6 +2,13 @@
 
 ## Concepts
 
+
+### Resources
+- 5 or so resources
+- Feeds into policies (possibly), military and technology (maybe improvements)
+- Tradeable
+- Limiter of production
+
 ### Technology
 
 - 5 or so tiers
