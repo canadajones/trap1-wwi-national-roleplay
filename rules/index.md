@@ -55,6 +55,5 @@ _ Different "ideals"
 - Multiple conditions
   - Military
   - Economic
-  - Cultural
-  - Political
+  - Political / cultural
   - Technological
